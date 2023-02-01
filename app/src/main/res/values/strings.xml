@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Jetpack Compose Quadrant</string>
+    <string name="title_q1">Text composable</string>
+    <string name="title_q2">Image composable</string>
+    <string name="title_q3">Row composable</string>
+    <string name="title_q4">Column composable</string>
+    <string name="description_q1">Displays text and follows Material Design guidelines.</string>
+    <string name="description_q2">Creates a composable that lays out and draws a given
+        Painter class object.</string>
+    <string name="description_q3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="description_q4">A layout composable that places its children in a vertical sequence.</string>
 </resources>
